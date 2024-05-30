@@ -1,0 +1,61 @@
+#Ca1cutator{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(221, 198, 198);
+    width: fit-content;
+    padding: 20px;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+#Ca1cut{
+ background-color: rgb(240, 246, 250);
+ height: 50px;
+ width: 300px;
+ margin-bottom: 15px;
+ border-radius: 15px;
+ padding: 7px;
+ display: flex;
+ align-items:center;
+ font-size: 25px;
+}
+
+#Ca1cutator_{
+    margin: 5px   auto;
+}
+
+.Ca1cutator_ button:hover{
+    background-color:rgb(65, 83, 34) ;
+    cursor: pointer;
+}
+.Ca1cutator_ button{
+ width: 60px;
+ height: 60px;
+ font-size: 20px;
+ border: none;
+ border-radius: 10px ;
+ margin: 5px;
+ background-color:darkslategray
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background-image: url('wallpaperflare.com_wallpaper (2).jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.content {
+    color: white;
+    text-align: center; 
+    padding: 50px;
+}
+
+h1 {
+    background-color: cadetblue;
+}
